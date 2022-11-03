@@ -14,6 +14,7 @@ Apaixonado por computação e como a programação mudou a minha vida e pode mud
 - 📚 Graduando na área de Ciência da Computação
 - 💻 #Go #Python
 
+<!-- 
 ## 🌱 Áreas de Interesse:
 - Microserviços
 - Serveless
@@ -23,6 +24,7 @@ Apaixonado por computação e como a programação mudou a minha vida e pode mud
 - Clean Code
 - Arquitetura de Software
 - Docker
+-->
 
 ## 🔭 Projetos
 
