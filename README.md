@@ -12,14 +12,17 @@ Apaixonado por computação e como a programação mudou a minha vida e pode mud
 ## Quem sou eu? 💬
 - 🌍 Brasileiro/Nordestino/Sergipano
 - 📚 Graduando na área de Ciência da Computação
-- 💻 #Go #Python
+- 💻 #Java #SQL #Python
 
 <!-- 
 ## 🌱 Áreas de Interesse:
 - Microserviços
 - Serveless
 - Ciência da Computação
-- Go
+- Java
+- Spring Boot
+- SQL
+- PL/SQL
 - Python
 - Clean Code
 - Arquitetura de Software
